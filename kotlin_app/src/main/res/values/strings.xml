@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Mobile Coding Challenge</string>
+    <string name="username">hello</string>
+  <string name="password">world</string>
+    <string name="signin">SignIn</string>
+  <string name="usernamehint">Username</string>
+  <string name="passwordhint">Password</string>
+  <string name="login">Login</string>
+  <string name="users">Users</string>
+  <string name="logout_button">Logout Button</string>
+  <string name="avatar">Avatar</string>
+  <string name="user_name">User name</string>
+  <string name="view_all_post"><![CDATA[View all post >>>]]></string>
+  <string name="view_all_albums"><![CDATA[View all albums >>>]]></string>
+  <string name="view_all_photos"><![CDATA[View all photos >>>]]></string>
+</resources>
